@@ -1,0 +1,7 @@
+{
+  "name": "Serenity Breathing",
+  "description": "A calming, science-backed breathing app designed to reduce stress, improve focus, and promote relaxation using various guided breathing techniques and AI-powered wellness advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
